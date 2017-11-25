@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F45K22 -DL -O11111114 -fo32 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\Development Systems\EASYPIC7\Led Blinking\Led_Curtain.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\Development Systems\EASYPIC7\Led Blinking\" "Led_Curtain.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Led_Curtain.c
+diagnostics: 66	123	Compiled Successfully	Led_Curtain.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 1514 (99%)	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 1514 (99%)
+hint: 0	1144	Used ROM (bytes): 188 (1%)  Free ROM (bytes): 32580 (99%)	Used ROM (bytes): 188 (1%)  Free ROM (bytes): 32580 (99%)
+diagnostics: 0	125	Project Linked Successfully	Led_Curtain.mcppi
+diagnostics: 0	128	Linked in 94 ms	 
+diagnostics: 0	129	Project 'Led_Curtain.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 22 Nov 2017, 18:45:36	Led_Curtain.mcppi
