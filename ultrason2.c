@@ -12,11 +12,10 @@ void main() {
   LATB =  0x00;
   LATC =  0x00;
   LATD =  0x00;
-  LATE =  0x00;
 
   while ( RE0_bit & 1 ) {
     compteur = compteur + 1;
-    
+
     LATA =  0xFF;
     LATD =  compteur * 10 /58;
   }
