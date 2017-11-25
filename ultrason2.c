@@ -8,6 +8,7 @@ void main() {
   TRISE = 0xFF;        // set direction to be input
   RE1_bit = 1;         // On met RE1 à 1 pour envoyer le signal du trigger
 
+  // Par défaut on met tous les ports de sortie à 0.
   LATA =  0x00;
   LATB =  0x00;
   LATC =  0x00;
