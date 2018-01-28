@@ -1,3 +1,4 @@
+
 void afficheChiffre(char chiffre, char position) {
    LATA = 0x01 << position;     //   les PINs de AN0 a AN3 sont des canaux analogiques????
 
